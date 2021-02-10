@@ -3,6 +3,11 @@ table {
     border-spacing: 0;
 }
 
+caption {
+    display: table-caption;
+    text-align: center;
+}
+
 td {
     border: thin inset blue;
     background-color: aquamarine;
