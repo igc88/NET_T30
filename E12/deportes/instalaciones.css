@@ -1,0 +1,23 @@
+table {
+    border: 2px outset grey;
+    border-spacing: 0;
+}
+
+td {
+    border: thin inset blue;
+    background-color: aquamarine;
+}
+
+.col-title {
+    background-color: darkslategray;
+    color: aquamarine;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.dark {
+    background-color: cadetblue;
+}
