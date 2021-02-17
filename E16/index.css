@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border: 2px outset lightyellow;
+    border-spacing: 0;
+    width: 70%;
+
+    margin: 0 auto;
+
+    margin-top: 20em;
+}
+
+td {
+    border: thin inset;
+    text-align: center;
+    color: darkred;    
+    background-color: lightyellow;
+}
+
+.green {
+    background-color: olivedrab;
+}
+
+.orange {
+    background-color: lightsalmon;
+}
