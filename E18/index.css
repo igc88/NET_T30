@@ -1,0 +1,26 @@
+#anterior {
+    width: 239px;
+    height: 113px;
+    border: 2px solid blue;
+    
+    background: url('../Recursos/f01.png') repeat-x bottom, url('../Recursos/f02.png'), url('../Recursos/f03.png') repeat-x, lightskyblue;
+    margin-bottom: 10px;
+}
+
+
+#contenido {
+    width: 400px;
+    height: 300px;
+    border: 4px solid red;
+    background: url('../Recursos/f01.png') repeat-x bottom, url('../Recursos/f02.png') no-repeat left bottom, url('../Recursos/f03.png') repeat-x, lightskyblue;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#posterior {
+    width: 239px;
+    height: 113px;
+    border: 2px solid blue;
+    
+    background: url('../Recursos/f01.png') repeat-x bottom, url('../Recursos/f02.png'), url('../Recursos/f03.png') repeat-x, lightskyblue;
+}

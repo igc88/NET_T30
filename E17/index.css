@@ -1,0 +1,94 @@
+body {
+    background-image: url('../Recursos/ac.jpg');
+}
+
+.row {
+    display: block;
+    width: 725px;
+}
+
+.square {
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+    margin: 25px;
+    float: left;
+    display: inline;
+}
+
+#a {
+    background-image: url('../Recursos/back_mantel.jpg');
+}
+
+#b {
+    width: 100px;
+    height: 100px;
+    background-image: url('../Recursos/back_mantel.jpg');
+    background-clip: content-box;
+    padding: 10px;
+}
+
+#c {
+    background-image: url('../Recursos/back_mantel.jpg');
+    background-size: 100% 100%;
+}
+
+#d {
+    width: 100px;
+    height: 100px;
+    background-image: url('../Recursos/back_mantel.jpg');
+    background-size: 100% 100%;
+    background-clip: content-box;
+    padding: 10px;
+}
+
+#e {
+    background-image: url('../Recursos/dh.jpg');
+    background-size: 100% 100%;
+}
+
+#f {
+    background-image: url('../Recursos/dh.jpg');
+    background-size: 100% 100%;
+    background-clip: content-box;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+#g {
+    background-color: white;
+    background-image: url('../Recursos/dh_2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: center center;
+}
+
+#h {
+    background-color: white;
+    background-image: url('../Recursos/dh_3.jpg');
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-position: center center;
+}
+
+#i {
+    background: rgb(135, 255, 0);
+    background: linear-gradient(90deg, rgba(135, 255, 0, 1) 0%, rgba(84, 111, 55, 1) 100%, rgba(135, 255, 0, 1) 100%);
+}
+
+#j {
+    background: rgb(227, 165, 132);
+    background: linear-gradient(0deg, rgba(227, 165, 132, 1) 0%, rgba(130, 47, 3, 1) 36%, rgba(227, 165, 132, 1) 100%);
+}
+
+#k {
+    background: rgb(23, 93, 19);
+    background: linear-gradient(0deg, rgba(23, 93, 19, 1) 0%, rgba(183, 242, 179, 1) 80%);
+}
+
+#l {
+    background: rgb(23, 93, 19);
+    background: linear-gradient(0deg, rgba(23, 93, 19, 1) 0%, rgba(183, 242, 179, 0.19212962962962965) 80%);
+}

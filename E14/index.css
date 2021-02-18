@@ -1,0 +1,29 @@
+body {
+    background-image: url('../Recursos/pingus.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+table {
+    border: 2px outset yellow;
+    border-spacing: 0;
+    width: 70%;
+
+    margin: 0 auto;
+
+    margin-top: 20em;
+}
+
+td {
+    background-color: white;
+
+    border: thin inset;
+    text-align: center;
+    font-weight: bold;
+}
+
+.yellow {
+    background-color: yellow;
+}
